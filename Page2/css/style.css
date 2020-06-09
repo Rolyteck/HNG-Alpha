@@ -1,7 +1,11 @@
-.body{
+.body {
+font-family: 'Poppins', serif;
+}
+.bod{
 	width:98%
 	
 }
+
 .flexslider{
 	 
 	padding:5px;
